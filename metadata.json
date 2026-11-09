@@ -1,0 +1,6 @@
+{
+  "name": "AP Climate Risk Monitoring System",
+  "description": "Climate Risk Prediction for Andhra Pradesh Using 1D CNN with Explainable AI (XAI)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
